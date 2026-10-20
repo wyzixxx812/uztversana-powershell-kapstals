@@ -1,0 +1,1 @@
+# uztversana-powershell-kapstals
